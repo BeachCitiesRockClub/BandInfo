@@ -1,0 +1,35 @@
+body {
+  background: #141E30;
+  color: #fff;
+  padding: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+@media (min-width:700px) and (max-width:899px) {body {
+  background: #141E30;
+  color: #fff;
+  padding: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large
+}}
+
+@media (min-width:900px) {body {
+  background: #141E30;
+  color: #fff;
+  padding: 50px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: x-large;
+}} 
+
+@media (min-width:1200px) {body {
+  background: #141E30;
+  color: #fff;
+  padding: 50px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: xx-large;
+}} 
+
+a {
+  color:dodgerblue
+}
+a:hover {
