@@ -12,7 +12,13 @@ p {
 
 .sectionDivider {
   color: #141E30;
-  border-bottom: 5px solid #0277bd;
+  border-bottom: 3px solid #0277bd;
+}
+
+.title {
+  width: 200px;
+  padding-bottom: 15px;
+  border-bottom: 3px solid #0277bd;
 }
 @media (min-width:700px) and (max-width:899px) {body {
   background: #141E30;
@@ -23,6 +29,15 @@ p {
 }
 p {
   max-width:500px;
+}
+.sectionDivider {
+  color: #141E30;
+  border-bottom: 5px solid #0277bd;
+}
+.title {
+  width: 200px;
+  padding-bottom: 15px;
+  border-bottom: 5px solid #0277bd;
 }}
 
 @media (min-width:900px) {body {
@@ -34,7 +49,16 @@ p {
 }
 p {
   max-width: 600px;
-}} 
+}
+.sectionDivider {
+  color: #141E30;
+  border-bottom: 6px solid #0277bd;
+}
+.title {
+  width: 275px;
+  padding-bottom: 15px;
+  border-bottom: 6px solid #0277bd;
+}}
 
 @media (min-width:1200px) {body {
   background: #141E30;
@@ -45,17 +69,20 @@ p {
 }
 p {
   max-width: 750px;
-}} 
+}
+.sectionDivider {
+  color: #141E30;
+  border-bottom: 7px solid #0277bd;
+}
+.title {
+  width: 350px;
+  padding-bottom: 15px;
+  border-bottom: 7pt solid #0277bd;
+}}
 
 a {
   color:dodgerblue
 }
 a:hover {
   color:blue;
-}
-
-.title {
-  width: 200px;
-  padding-bottom: 15px;
-  border-bottom: 5px solid #0277bd;
 }
