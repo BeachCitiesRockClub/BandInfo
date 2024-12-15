@@ -10,6 +10,10 @@ p {
   padding-left: 25px;
 }
 
+.sectionDivider {
+  color: #141E30;
+  border-bottom: 5px solid #0277bd;
+}
 @media (min-width:700px) and (max-width:899px) {body {
   background: #141E30;
   color: #fff;
