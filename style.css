@@ -23,12 +23,18 @@ p {
 
 #RydersSongFigure {
   position: relative;
-  left: 500px;
+  left: 1000px;
 }
 
 #afterAudio {
   position: relative;
-  bottom: 50px;
+  bottom: 100px;
+}
+
+figcaption {
+  position: relative;
+  left: 50px;
+  font-size: 15px;
 }
 @media (min-width:700px) and (max-width:899px) {body {
   background: #141E30;
