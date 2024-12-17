@@ -21,9 +21,18 @@ p {
   border-bottom: 3px solid #0277bd;
 }
 
-#RydersSongFigure {
+#RydersSongFigure #RydersSongAudio{
   position: relative;
-  left: 1000px;
+  left: 200px;
+  top: 75px;
+  width: 200px;
+  height: 50px;
+}
+
+#RydersSongFigcaption {
+  position: relative;
+  left: 247px;
+  top: 75px;
 }
 
 #afterAudio {
@@ -54,6 +63,20 @@ p {
   width: 200px;
   padding-bottom: 15px;
   border-bottom: 5px solid #0277bd;
+}
+
+#RydersSongFigure #RydersSongAudio {
+  position: relative;
+  left: 250px;
+  top: 100px;
+  width: 250px;
+  height: 50px;
+}
+
+#RydersSongFigcaption {
+  position: relative;
+  left: 320px;
+  top: 100px;
 }}
 
 @media (min-width:900px) {body {
@@ -74,6 +97,21 @@ p {
   width: 275px;
   padding-bottom: 15px;
   border-bottom: 6px solid #0277bd;
+}
+
+#RydersSongFigure #RydersSongAudio {
+  position: relative;
+  left: 350px;
+  top: 125px;
+  width: 300px;
+  height: 50px;
+}
+
+#RydersSongFigcaption {
+  position: relative;
+  left: 440px;
+  top: 125px;
+  font-size:large
 }}
 
 @media (min-width:1200px) {body {
@@ -94,6 +132,20 @@ p {
   width: 350px;
   padding-bottom: 15px;
   border-bottom: 7px solid #0277bd;
+}
+
+#RydersSongFigure #RydersSongAudio {
+  position: relative;
+  left: 400px;
+  top: 200px;
+  width: 400px;
+  height: 50px;
+}
+
+#RydersSongFigcaption {
+  position: relative;
+  left: 530px;
+  top: 200px;
 }}
 
 a {
