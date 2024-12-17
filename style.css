@@ -40,11 +40,6 @@ p {
   bottom: 100px;
 }
 
-figcaption {
-  position: relative;
-  left: 50px;
-  font-size: 15px;
-}
 @media (min-width:700px) and (max-width:899px) {body {
   background: #141E30;
   color: #fff;
