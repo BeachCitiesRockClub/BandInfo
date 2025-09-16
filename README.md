@@ -1,1 +1,1 @@
-This is a website for a band that I am part of. We still don't have a name, so I named the repository BandInfo. This is my first time building a website so if you see any errors or inefficiencies please tell me. Any tips that you have would be very helpful for me to learn.
+This is a website for a band that I am part of. We're called Kids These Days. This is my first time building a website so if you see any errors or inefficiencies please tell me. Any tips that you have would be very helpful for me to learn.
