@@ -319,6 +319,11 @@ header {
   background-size: 20%;
   background-repeat: no-repeat;
 }
+#logoBottom {
+  position: relative;
+  left: 5%;
+  size: 150%;
+}
 #Correction {
  font-size: 225%;
 }
