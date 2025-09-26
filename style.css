@@ -82,7 +82,7 @@ nav {
 }
 #members {
   padding-top: 100px;
-  background-image: url('/Logo.png')
+  background-image: url('Logo.png')
   background-position-x: 70%;
   background-position-y: 40%;
   background-size: 30%;
@@ -157,7 +157,7 @@ nav {
 }
 #members {
   padding-top: 100px;
-  background-image: url('/Logo.png')  
+  background-image: url('Logo.png')  
   background-position-x: 70%;
   background-position-y: 45%;
   background-size: 35%;
@@ -238,7 +238,7 @@ nav {
 }
 #members {
   padding-top: 100px;
-  background-image: url('/Logo.png')  
+  background-image: url('Logo.png')  
   background-position-x: 70%;
   background-position-y: 40%;
   background-size: 30%;
@@ -313,7 +313,7 @@ header {
 }
 #members {
   padding-top: 100px;
-  background-image: url('/Logo.png')  
+  background-image: url('Logo.png')  
   background-position-x: 70%;
   background-position-y: 40%;
   background-size: 20%;
